@@ -1,5 +1,6 @@
 # Portfolio
 I am tech enthusiast with expertise in web and mobile application development. I love to explore new technologies. I likes to dig into project requirement and completes them with modern technologies in a very efficient way.'
+Resume - https://www.canva.com/design/DAF8A5qrQes/_DORbV7W30m-IlRWktlh0Q/view?utm_content=DAF8A5qrQes&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ![p1](https://github.com/user-attachments/assets/fe6613c9-15aa-4393-8b8b-42c74a4b0fed)
 ![p2](https://github.com/user-attachments/assets/d9faf044-c2ed-4799-a983-9c38420ecd39)
 ![p3](https://github.com/user-attachments/assets/b329d8ea-28d5-4a77-ae27-bfbd8d6a6663)
